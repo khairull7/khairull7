@@ -6,6 +6,6 @@
 
 - 📫 How to reach me **rkhai412@gmail.com**
 
-- ⚡ Fun fact **Not**
+- ⚡ Fun fact: **Did you know... Not**
 
 Remember: "The only way to do great work is to love what you do."
