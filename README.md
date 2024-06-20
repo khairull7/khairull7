@@ -39,4 +39,7 @@
   <a href="mailto:rkhai412@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40">
   </a>
+  <a href="https://wa.me/yourphonenumber" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40">
+  </a>
 </p>
