@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Hi 👋, I'm Khairul">
+  Hi 👋, I'm Khairul
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-- 🌱 I’m currently learning in **HTML, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, and Postman**.
+- 🌱 I’m currently learning **HTML, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, and Postman**.
 - 💬 Feel free to ask me about anything **fun and exciting**.
 - 📫 You can reach me at **rkhai412@gmail.com**.
 - ⚡ Fun fact: **Did you know... Not**.
