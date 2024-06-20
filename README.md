@@ -14,7 +14,7 @@
 
 ---
 
-- 🌱 I’m currently immersing myself in **HTML, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, and Postman**.
+- 🌱 I’m currently learning in **HTML, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, and Postman**.
 - 💬 Feel free to ask me about anything **fun and exciting**.
 - 📫 You can reach me at **rkhai412@gmail.com**.
 - ⚡ Fun fact: **Did you know... Not**.
@@ -26,5 +26,16 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarthakvishal/AnimatedFlameLogo/main/logo.svg" alt="Animated logo" width="300">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://open.spotify.com/user/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:rkhai412@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
