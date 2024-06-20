@@ -1,5 +1,9 @@
 <h1 align="center">
-  <a href="#" class="animated-greeting">Hi 👋, I'm Khairul</a>
+  <a href="#" style="text-decoration:none;">
+    <span style="display: inline-block; background: linear-gradient(90deg, rgba(255,0,150,0.3), rgba(0,204,255,0.3)); padding: 10px 20px; border-radius: 15px; font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 48px; color: black;">
+      Hi 👋, I'm Khairul
+    </span>
+  </a>
 </h1>
 
 <p align="center">
@@ -16,7 +20,7 @@
 
 ---
 
-- 🌱 I’m currently learning in **HTML, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, and Postman**.
+- 🌱 I’m currently learning **HTML, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, and Postman**.
 - 💬 Feel free to ask me about anything **fun and exciting**.
 - 📫 You can reach me at **rkhai412@gmail.com**.
 - ⚡ Fun fact: **Did you know... Not**.
