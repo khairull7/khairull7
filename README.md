@@ -63,3 +63,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AORpki5HXq6LQF2/giphy.gif" alt="Background GIF" style="width: 100%; height: auto;">
+</p>
+
+---
