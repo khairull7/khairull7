@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  And I'm excited about building new technologies that can make a real difference in people's lives.
+  And I’m passionate about creating innovative technologies that truly make a positive impact on people's lives.
 </p>
 
 <h3 align="center">I'm Currently Working On</h3>
