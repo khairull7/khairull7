@@ -15,10 +15,35 @@
 
 ---
 
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  I'm a passionate developer with a keen interest in web development and software engineering. I love working with modern technologies and continuously learning to improve my skills. Currently, I'm diving deep into **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
+</p>
+
+---
+
+<h3 align="center">What I'm Currently Working On</h3>
+
 - 🌱 I’m currently learning **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
+- 🔭 I’m currently working on [My Awesome Project](https://github.com/khairull7/awesome_project).
+- 👯 I’m looking to collaborate on **open source projects**.
+- 🤔 I’m looking for help with **complex algorithms and data structures**.
 - 💬 Feel free to ask me about anything **fun and exciting**.
 - 📫 You can reach me at **rkhai412@gmail.com**.
 - ⚡ Fun fact: **Did you know... Not**.
+
+---
+
+<h3 align="center">My GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+<h3 align="center">My Favorite Quote</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.-brightgreen?style=for-the-badge" alt="Quote">
@@ -26,4 +51,18 @@
 
 ---
 
+<h3 align="center">Connect with Me</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/khairul-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/khairul_twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/khairul_instagram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
