@@ -25,14 +25,17 @@
 <h3 align="center">I'm Currently Working On</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100" style="vertical-align: middle;">
+  <span style="display: inline-block; vertical-align: middle; text-align: left;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🌱 I’m currently learning <strong>HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman</strong>.</li>
+      <li>🔭 I’m currently working on <a href="https://github.com/khairull7/awesome_project" target="_blank"><strong>My Awesome Project</strong></a>.</li>
+      <li>💬 Feel free to ask me about anything <strong>fun and exciting</strong>.</li>
+      <li>📫 You can reach me at <strong>rkhai412@gmail.com</strong>.</li>
+      <li>⚡ Fun fact: <strong>Did you know... Not</strong>.</li>
+    </ul>
+  </span>
 </p>
-
-- 🌱 I’m currently learning **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
-- 🔭 I’m currently working on [My Awesome Project](https://github.com/khairull7/awesome_project).
-- 💬 Feel free to ask me about anything **fun and exciting**.
-- 📫 You can reach me at **rkhai412@gmail.com**.
-- ⚡ Fun fact: **Did you know... Not**.
 
 ---
 
