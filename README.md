@@ -18,13 +18,11 @@
   And I'm excited about building new technologies that can make a real difference in people's lives.
 </p>
 
-
 <h3 align="center">I'm Currently Working On</h3>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">
 </p>
-
 
 ---
 
@@ -49,9 +47,9 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=dark" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
 </p>
 
 ---
