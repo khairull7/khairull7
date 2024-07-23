@@ -19,15 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
   </a>
 </p>
-  <a href="https://shields.io" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-HTML5-blue" alt="HTML">
-  </a>
-  <a href="https://shields.io" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-CSS3-green" alt="CSS">
-  </a>
-  <a href="https://shields.io" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-JS-yellow" alt="JavaScript">
-  </a>
+
 
 ---
 
