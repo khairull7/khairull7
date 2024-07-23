@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   Currently learning **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
+   Currently learning HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman.
 </p>
 
 <p align="center">
