@@ -13,19 +13,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PHP_logo.svg" alt="PHP" width="50" height="50">
   </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50" height="50">
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MySQL_logo.png" alt="MySQL" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/MySQL_logo.svg" alt="MySQL" width="50" height="50">
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
   </a>
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Postman_Icon.png" alt="Postman" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Postman_logo.png" alt="Postman" width="50" height="50">
   </a>
 </p>
 
