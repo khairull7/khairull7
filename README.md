@@ -27,8 +27,6 @@
 
 - 🌱 I’m currently learning **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
 - 🔭 I’m currently working on [My Awesome Project](https://github.com/khairull7/awesome_project).
-- 👯 I’m looking to collaborate on **open source projects**.
-- 🤔 I’m looking for help with **complex algorithms and data structures**.
 - 💬 Feel free to ask me about anything **fun and exciting**.
 - 📫 You can reach me at **rkhai412@gmail.com**.
 - ⚡ Fun fact: **Did you know... Not**.
