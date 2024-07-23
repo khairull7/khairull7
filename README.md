@@ -1,7 +1,23 @@
 <h1 align="center">
-  Hi 👋, I'm Khairul
+  Hello there 🤘🏻
 </h1>
----
+
+<h2 align="center">
+  My name is Khairul
+</h2>
+
+<p align="center">
+  I'm a Software Engineer and also a Backend Developer.
+</p>
+
+<p align="center">
+   I’m Currently learning **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
+</p>
+
+<p align="center">
+  And I'm very enthusiastic about developing innovations that can make a positive impact on people's lives.
+</p>
+
 
 <h3 align="center">I'm Currently Working On</h3>
 
