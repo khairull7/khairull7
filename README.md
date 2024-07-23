@@ -45,7 +45,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
   </a>
 </p>
----
 
 <h3 align="center">My GitHub Stats</h3>
 
