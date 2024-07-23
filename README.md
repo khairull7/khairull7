@@ -20,7 +20,6 @@
   </a>
 </p>
 
-
 ---
 
 <h3 align="center">I'm Currently Working On</h3>
@@ -36,9 +35,9 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=radical" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=blue" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=blue" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=blue" alt="Top Languages">
 </p>
 
 ---
