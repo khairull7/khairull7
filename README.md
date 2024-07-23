@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello Bro! 🤘🏻
+  Hello Bro! 
 </h1>
 
 <h2 align="center">
