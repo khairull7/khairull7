@@ -23,15 +23,7 @@
 
 ---
 
-<h3 align="center">About Me</h3>
-
-<p align="center">
-  I'm a passionate developer with a keen interest in web development and software engineering. I love working with modern technologies and continuously learning to improve my skills. Currently, I'm diving deep into **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
-</p>
-
----
-
-<h3 align="center">What I'm Currently Working On</h3>
+<h3 align="center">I'm Currently Working On</h3>
 
 - 🌱 I’m currently learning **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
 - 🔭 I’m currently working on [My Awesome Project](https://github.com/khairull7/awesome_project).
