@@ -54,11 +54,11 @@
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khairul-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://www.instagram.com/khairul_instagram/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/khairul_twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
