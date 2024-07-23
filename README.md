@@ -61,3 +61,19 @@
 </p>
 
 ---
+
+<!-- SVG Background Animation -->
+<div align="center">
+  <svg width="100%" height="100%">
+    <defs>
+      <linearGradient id="grad1">
+        <stop offset="0%" style="stop-color:rgb(34,193,195);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(253,187,45);stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#grad1)">
+      <animate attributeName="x" from="0" to="100%" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="y" from="0" to="100%" dur="10s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+</div>
