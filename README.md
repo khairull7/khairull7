@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello there 🤘🏻
+  Hello Bro! 🤘🏻
 </h1>
 
 <h2 align="center">
@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  I'm a Software Engineer and also a Backend Developer.
+  I'm a Software Engineer focused on Backend Development.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  And I'm very enthusiastic about developing innovations that can make a positive impact on people's lives.
+  And I'm excited about building new technologies that can make a real difference in people's lives.
 </p>
 
 
