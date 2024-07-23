@@ -45,8 +45,9 @@
 <h3 align="center">My Favorite Quote</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.-brightgreen?style=for-the-badge" alt="Quote">
+  <img src="https://img.shields.io/badge/-The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.-white?style=for-the-badge&logo=react&logoColor=white&color=333333" alt="Quote">
 </p>
+
 
 ---
 
