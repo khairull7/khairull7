@@ -24,6 +24,10 @@
 
 <h3 align="center">I'm Currently Working On</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6fJbM1nZsXBL5z1y/giphy.gif" alt="Coding GIF" width="100">
+</p>
+
 - 🌱 I’m currently learning **HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman**.
 - 🔭 I’m currently working on [My Awesome Project](https://github.com/khairull7/awesome_project).
 - 💬 Feel free to ask me about anything **fun and exciting**.
