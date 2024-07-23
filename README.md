@@ -72,9 +72,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
   </a>
 </p>
-
-<h3 align="center">My Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-</p>
