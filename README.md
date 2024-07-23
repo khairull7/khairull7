@@ -35,9 +35,9 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=blue" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=blue" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=blue" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 ---
@@ -47,7 +47,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.-white?style=for-the-badge&logo=react&logoColor=white&color=333333" alt="Quote">
 </p>
-
 
 ---
 
