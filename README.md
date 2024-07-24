@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1Wucf23gmJmPLEQTOsI95U&ust=1721890678144000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiHv-aMv4cDFQAAAAAdAAAAABAT)" alt="Working On GIF" width="100">
 </p>
 
 <p align="center">
