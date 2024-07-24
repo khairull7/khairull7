@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">
-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="hippo GIF" width="100">
 </p>
 
 <p align="center">
@@ -52,6 +51,12 @@
 </p>
 
 ---
+
+<h3 align="center">My GIF</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cool GIF" width="800">
+</p>
 
 <h3 align="center">My Quote</h3>
 
