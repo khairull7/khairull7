@@ -1,5 +1,3 @@
-![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
-
 <h1 align="center">
   Hello Bro! 
 </h1>
@@ -24,6 +22,8 @@
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+  
 </p>
 
 <p align="center">
