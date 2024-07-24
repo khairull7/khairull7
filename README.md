@@ -22,9 +22,8 @@
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Working On GIF" width="100">
 </p>
-
----
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
