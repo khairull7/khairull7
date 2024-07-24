@@ -1,3 +1,5 @@
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+
 <h1 align="center">
   Hello Bro! 
 </h1>
@@ -9,7 +11,6 @@
 <p align="center">
   I'm a Software Engineer focused on Backend Development.
 </p>
-![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
 <p align="center">
    Currently learning HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman.
