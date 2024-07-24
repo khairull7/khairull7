@@ -52,6 +52,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 </p>
 
+<h3 align="center">Profile Views</h3>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/khairull7/count.svg" alt="Profile Views">
+</p>
+
 ---
 
 <h3 align="center">My Quote</h3>
