@@ -55,7 +55,7 @@
 <h3 align="center">Profile Views</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/khairull7/count.svg" alt="Profile Views">
+  <img src="https://example-counter-service.com/count?user=khairull7" alt="Profile Views">
 </p>
 
 ---
