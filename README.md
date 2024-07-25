@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-   Currently learning HTML, CSS, JavaScript, PHP, Laravel, MySQL, POSTGRESQL, React, Python and Postman.
+   Currently learning HTML, CSS, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, Python and Postman.
 </p>
 
 
