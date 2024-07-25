@@ -13,12 +13,9 @@
 </p>
 
 <p align="center">
-   Currently learning HTML, JavaScript, PHP, Laravel, MySQL, React, and Postman.
+   Currently learning HTML, CSS, JavaScript, PHP, Laravel, MySQL, POSTGRESQL, React, Python and Postman.
 </p>
 
-<p align="center">
-  And I’m passionate about creating innovative technologies that truly make a positive impact on people's lives.
-</p>
 
 <h3 align="center">I'm Currently Working On</h3>
 
