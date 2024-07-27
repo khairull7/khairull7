@@ -1,7 +1,5 @@
-![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
-
 <h1 align="center">
-  Hello Bro! 
+  Hello Bro!
 </h1>
 
 <h2 align="center">
@@ -13,15 +11,16 @@
 </p>
 
 <p align="center">
-   Currently learning HTML, CSS, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, Python and Postman.
+  Currently learning HTML, CSS, JavaScript, PHP, Laravel, MySQL, PostgreSQL, React, Python and Postman.
 </p>
-
 
 <h3 align="center">I'm Currently Working On</h3>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">  
 </p>
+
+<h3 align="center">My Tools</h3>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -68,7 +67,7 @@
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/khairul_instagram/" target="_blank">
+  <a href="https://www.instagram.com/khaaaairl_/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/khairul-linkedin/" target="_blank">
