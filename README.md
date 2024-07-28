@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello Bro!
+  Hi!
 </h1>
 
 <h2 align="center">
