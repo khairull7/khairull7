@@ -71,10 +71,11 @@
 
 <h3 align="center">Profile Views</h3>
 
-  <p align="center">
-    <i class="fas fa-eye" style="font-size: 50px; color: #4CAF50;"></i>
-    <img src="https://profile-counter.glitch.me/khairull7/count.svg" alt="Profile Views">
-  </p>
+<p align="center">
+  <img src="https://img.icons8.com/material-outlined/50/000000/visible.png" alt="Profile Views Icon" width="50" height="50">
+  <img src="https://profile-counter.glitch.me/khairull7/count.svg" alt="Profile Views">
+</p>
+
 
 ---
 
