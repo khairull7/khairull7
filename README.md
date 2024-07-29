@@ -44,6 +44,9 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50">
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50" height="50">
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50">
   </a>
