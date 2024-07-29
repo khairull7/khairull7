@@ -72,7 +72,9 @@
 <h3 align="center">Profile Views</h3>
 
 <p align="center">
-  <span style="font-size: 50px; color: #4CAF50;">👁️</span>
+  <span style="display: inline-block; padding: 10px; background: #f0f0f0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://img.icons8.com/ios-filled/50/000000/visible.png" alt="Profile Views Icon" width="50" height="50">
+  </span>
   <img src="https://profile-counter.glitch.me/khairull7/count.svg" alt="Profile Views">
 </p>
 
