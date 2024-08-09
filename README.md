@@ -1,8 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=ebba1a&size=25&lines=I'm+Muhammad+Khairul+Ikhwan;a+Web+Developer,;Tutor,+Writter,;AI,+CV,+Tech+enthusiast;Long+life+learner.)](https://git.io/typing-svg)
+
 <h1 align="center">
   Hi Bro!
 </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=ebba1a&size=25&lines=I'm+Muhammad+Khairul+Ikhwan;a+Web+Developer,;Tutor,+Writter,;AI,+CV,+Tech+enthusiast;Long+life+learner.)](https://git.io/typing-svg)
-
 
 <h2 align="center">
   My name is Khairul
