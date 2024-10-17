@@ -9,11 +9,7 @@
 </h2>
 
 <p align="center">
-  I'm a Software Engineer focused on Backend Development.
-</p>
-
-<p align="center">
-  Currently learning Python.
+  I'm a Software Engineer
 </p>
 
 <h3 align="center">I'm Currently Working On Task</h3>
@@ -80,18 +76,4 @@
 
 ---
 
-<h3 align="center">My Quote</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.-blueviolet?style=for-the-badge&logo=react&logoColor=white&color=000000" alt="Quote">
-</p>
-
 ---
-
-<h3 align="center">Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.instagram.com/khaaaairl_/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
-  </a>
-</p>
