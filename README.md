@@ -1,79 +1,94 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=ebba1a&size=25&lines=I'm+Muhammad+Khairul+Ikhwan;a+Web+Developer,;AI,+CV,+Tech+enthusiast;Long+life+learner.)](https://git.io/typing-svg)
+# Hi there, I'm Muhammad Khairul Ikhwan 👋
 
-<h1 align="center">
-  Hi Bro!
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
-<h2 align="center">
-  My name is Khairul
-</h2>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding" width="400">
+</div>
 
-<p align="center">
-  I'm a Software Engineer
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** based in Depok, West Java, Indonesia, specializing in building scalable web applications and exploring cutting-edge technologies in AI and Computer Vision.
+
+- 🔭 Currently working on innovative web development projects
+- 🌱 Continuously learning and staying updated with the latest tech trends
+- 💡 Interested in AI, Computer Vision, and modern web technologies
+- 🎯 Goal: To create impactful solutions that solve real-world problems
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-<h3 align="center">I'm Currently Working On Task</h3>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFwdnVid29mYWh4Y3AyNnQzM3prcmwzdnRlZmZuNzNoc3p3M3E4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paKhPtCfM7RDQyRyGf/giphy.gif" alt="Coding GIF" width="100">  
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<h3 align="center">My Tools</h3>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50" height="50">
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50" height="50">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50">
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
-  </a>
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-<h3 align="center">My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=github_dark&hide_border=true" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-<h3 align="center">Profile Views</h3>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khairull7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairull7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khairull7&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khairull7&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/khairull7/count.svg" alt="Profile Views">
+  <a href="https://github.com/khairull7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
 
 ---
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khairull7&style=for-the-badge&color=blue" alt="Profile Views"/>
+  
+  ### ⭐️ From [khairull7](https://github.com/khairull7)
+  
+  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+</div>
