@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** based in Depok, West Java, Indonesia, specializing in building scalable web applications and exploring cutting-edge technologies in AI and Computer Vision.
+I'm a passionate **Software Engineer** based in Bogor, West Java, Indonesia, specializing in building scalable web applications and exploring cutting-edge technologies in AI and Computer Vision.
 
 - 🔭 Currently working on innovative web development projects
 - 🌱 Continuously learning and staying updated with the latest tech trends
