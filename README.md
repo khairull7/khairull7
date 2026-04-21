@@ -57,17 +57,6 @@ I'm a passionate **Software Engineer** based in Bogor, West Java, Indonesia, spe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairull7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khairull7&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khairull7&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
 
 ## 🤝 Connect With Me
 
